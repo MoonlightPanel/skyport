@@ -7,13 +7,20 @@ An open source project powered by Docker for managing applications, game servers
 
 
 ## Installation
+b1:
+`sudo mkdir -p /etc/apt/keyrings`
+
+b2:
+`
 1. Clone the repository:
 `git clone https://github.com/MoonlightPanel/skyport.git`
+`sudo apt install -y nodejs git`
+`cd skyport`
 
-2. Install dependencies:
+3. Install dependencies:
 `npm install`
 
-3. Seed images and create a user:
+4. Seed images and create a user:
 ```
 npm run seed
 npm run createUser
