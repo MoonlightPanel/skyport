@@ -8,7 +8,7 @@ An open source project powered by Docker for managing applications, game servers
 
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/skyportlabs/panel/`
+`git clone https://github.com/MoonlightPanel/skyport.git`
 
 2. Install dependencies:
 `npm install`
